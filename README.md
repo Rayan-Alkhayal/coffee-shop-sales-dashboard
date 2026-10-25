@@ -43,4 +43,4 @@ Evaluate sales and profit performance and identify which cities, products, and c
 2. Open it in Microsoft Excel (desktop version recommended for slicers and refresh).
 3. Open the Dashboard sheet and use the slicers (Location, Product) to filter the charts.
 
-## Workbook contents: raw data, business questions, PivotTable analysis, and the dashboard (some sheet names are in Arabic).
+**Workbook contents: raw data, business questions, PivotTable analysis, and the dashboard (some sheet names are in Arabic).**
