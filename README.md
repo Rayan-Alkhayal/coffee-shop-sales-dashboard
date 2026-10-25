@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard analyzing the sales and profit performance of a coffee shop across cities, products, payment methods, and hours of the day.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/dashboard)
 
 *Dashboard labels are in Arabic*
 
