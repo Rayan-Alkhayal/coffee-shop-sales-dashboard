@@ -1,4 +1,4 @@
-# Coffee Shop Sales & Profitability Dashboard
+## Coffee Shop Sales & Profitability Dashboard
 
 An interactive Excel dashboard analyzing the sales and profit performance of a coffee shop across cities, products, payment methods, and hours of the day.
 
