@@ -31,16 +31,16 @@ Evaluate sales and profit performance and identify which cities, products, and c
 - Counted unique customers (100) instead of counting rows
 
 ## Key Insights
-- Overall: SAR 18,922 in sales, SAR 8,940 in costs, and SAR 9,982 in profit (about 53% margin) from 2,529 units sold.
-- Locations: Makkah (SAR 5,028) and Najran (SAR 4,689) generated about 51% of sales and led profit as well.
-- Products: Americano with Milk was the top seller (SAR 4,976, about 26% of sales) and the most profitable (SAR 2,488), followed by Cappuccino in profit (SAR 2,295). Espresso was the lowest (SAR 282).
-- Payment: Card payments made up about 89% of sales (SAR 16,763).
-- Customers: Sales are spread widely; the top 5 customers account for about 9% of total sales.
-- Time of day: Sales peak at 04:00 AM (SAR 1,153) and are lowest at 12:00 PM (SAR 487).
+- Overall : SAR 18,922 in sales, SAR 8,940 in costs, and SAR 9,982 in profit (about 53% margin) from 2,529 units sold.
+- Locations : Makkah (SAR 5,028) and Najran (SAR 4,689) generated about 51% of sales and led profit as well.
+- Products : Americano with Milk was the top seller (SAR 4,976, about 26% of sales) and the most profitable (SAR 2,488), followed by Cappuccino in profit (SAR 2,295). Espresso was the lowest (SAR 282).
+- Payment : Card payments made up about 89% of sales (SAR 16,763).
+- Customers : Sales are spread widely; the top 5 customers account for about 9% of total sales.
+- Time of day : Sales peak at 04:00 AM (SAR 1,153) and are lowest at 12:00 PM (SAR 487).
 
 ## How to Use
 1. Download [coffee-shop-sales-dashboard.xlsx](coffee-shop-sales-dashboard.xlsx).
 2. Open it in Microsoft Excel (desktop version recommended for slicers and refresh).
 3. Open the Dashboard sheet and use the slicers (Location, Product) to filter the charts.
 
-**Workbook contents: raw data, business questions, PivotTable analysis, and the dashboard (some sheet names are in Arabic).**
+**Workbook contents : raw data, business questions, PivotTable analysis, and the dashboard (some sheet names are in Arabic).**
