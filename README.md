@@ -15,7 +15,7 @@ Evaluate sales and profit performance and identify which cities, products, and c
 ## Dataset
 - 1,000 orders, 100 customers, 9 cities, 7 products (2023)
 - Fields : order, customer, and product IDs; order date and time; payment method; location; product; quantity; unit cost; unit price; sales; total costs; profit
-- Source : a training dataset provided by the instructor of a data analysis training program as a practice exercise. Because it is a training dataset, the insights below illustrate the analysis and should not be read as results of a real business.
+- **Source :** a training dataset provided by the instructor of a data analysis training program as a practice exercise, shared with permission for portfolio use. 
 
 ## Tools & Techniques
 - **Microsoft Excel**
